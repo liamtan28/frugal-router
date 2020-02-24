@@ -1,10 +1,12 @@
-Sugar
+## frugal-router
 
 Dead-simple declarative routing for Express.
 
-Sugar provides declarative routing powered by function decorators with a tiny footprint.
-Once all is said and done, the Sugar Router object supplies your express application
+Frugal router provides declarative routing powered by function decorators with a tiny footprint.
+Once all is said and done, the Frugal Router object supplies your express application
 with a single router that will handle all errors and manage all requests for you.
+
+_NOTE_ this project is work in progress. Eventually this lib will be available as an npm module.
 
 Here's how it works:
 
