@@ -86,7 +86,7 @@ export default DefaultController;
 Register your controllers:
 
 ```
-    import { Router } from "sugar";
+    import { Router } from "lib/Router";
     const app = express();
     const router = Router();
     router.register(DefaultController);
